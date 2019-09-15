@@ -1,0 +1,23 @@
+{
+  "name": "mynute",
+  "version": "1.0.0",
+  "description": "Listens to a meeting and records the minutes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeamadou753/HTN2019.git"
+  },
+  "author": "Alex Hejmej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeamadou753/HTN2019/issues"
+  },
+  "homepage": "https://github.com/moeamadou753/HTN2019#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "python-shell": "^1.0.8"
+  }
+}
